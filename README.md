@@ -1,2 +1,2 @@
-this is my fust project
+this is my fust project.
 Author- rutvik chaudhari
